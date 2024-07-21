@@ -1,1 +1,1 @@
-# luma-ai-website
+Mission on replicating luma-ai website 

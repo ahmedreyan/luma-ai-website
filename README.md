@@ -1,1 +1,1 @@
-- Project for replicating luma ai website
+- Project for replicating luma ai 
